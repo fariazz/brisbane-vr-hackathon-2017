@@ -30,3 +30,5 @@ ExportedObj/
 *.unitypackage
 *.app
 *.exe
+
+/Assets/Plugins/
